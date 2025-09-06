@@ -1,0 +1,41 @@
+/* Ini adalah contoh solusi untuk Tugas 2 */
+
+body {
+    background-color: #f0f8ff; /* AliceBlue */
+    font-family: sans-serif;
+}
+
+h1 {
+    color: #4682b4; /* SteelBlue */
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-radius: 50%;
+    border: 5px solid #4682b4;
+}
+
+h2 {
+    color: #2e8b57; /* SeaGreen */
+    border-bottom: 2px solid #2e8b57;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+a {
+    color: #dc143c; /* Crimson */
+    text-decoration: none;
+}
+
+a:hover {
+    color: #ff4500; /* OrangeRed */
+    text-decoration: underline;
+}
