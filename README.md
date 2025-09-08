@@ -18,17 +18,21 @@ Jangan takut untuk mencari jawaban di Google! Kemampuan mencari solusi adalah sa
 
 ### Daftar Tugas
 
-- **[Tugas 1: Dasar-Dasar HTML](./Tugas_1-HTML/)**
-  - **Tujuan:** Memahami cara membuat struktur dasar halaman web.
-  - **File untuk dikerjakan:** `Tugas_1-HTML/bio.html`
+- **Tugas 1: Dasar-Dasar HTML**
+  - **Folder:** [`./Tugas_1-HTML/`](./Tugas_1-HTML/)
+  - **Tujuan:** Memahami cara membuat struktur dasar halaman web dengan mengikuti petunjuk di dalam file `bio.html`.
 
-- **[Tugas 2: Styling dengan CSS](./Tugas_2-CSS/)**
-  - **Tujuan:** Belajar cara menghias halaman web Anda dengan warna, font, dan layout.
-  - **File untuk dikerjakan:** `Tugas_2-CSS/gaya.css`
+- **Tugas 1.5: HTML Lanjutan - Halaman Resep**
+  - **Folder:** [`./Tugas_1.5-HTML_Lanjutan/`](./Tugas_1.5-HTML_Lanjutan/)
+  - **Tujuan:** Membangun halaman HTML yang kompleks dari nol berdasarkan spesifikasi tugas yang ada di dalam file `resep.html`.
 
-- **[Tugas 3: Interaktivitas dengan JavaScript](./Tugas_3-JavaScript/)**
-  - **Tujuan:** Membuat halaman web Anda dapat merespons aksi pengguna.
-  - **File untuk dikerjakan:** `Tugas_3-JavaScript/interaksi.js`
+- **Tugas 2: Styling dengan CSS**
+  - **Folder:** [`./Tugas_2-CSS/`](./Tugas_2-CSS/)
+  - **Tujuan:** Belajar cara menghias halaman web dengan mengikuti petunjuk di dalam file `gaya.css`.
+
+- **Tugas 3: Interaktivitas dengan JavaScript**
+  - **Folder:** [`./Tugas_3-JavaScript/`](./Tugas_3-JavaScript/)
+  - **Tujuan:** Membuat halaman web Anda dapat merespons aksi pengguna dengan mengikuti petunjuk di dalam file `interaksi.js`.
 
 ---
 
