@@ -1,0 +1,61 @@
+/*
+Selamat datang di Tugas 2!
+Di file ini, Anda akan belajar cara menghias halaman HTML.
+Ikuti petunjuk di bawah ini.
+*/
+
+/* TUGAS 1:
+   Buat sebuah selector untuk elemen `body`.
+   Di dalamnya, ubah properti `background-color` menjadi warna favorit Anda.
+   Contoh: #f0f0f0 atau lightblue.
+*/
+body {
+    background-image: url('bg_1.jpg');
+    font-family: cursive;
+    background-size: cover;
+    background-repeat: no-repeat;     
+}  
+
+/* TUGAS 2:
+   Buat sebuah selector untuk elemen `h1`.
+   Di dalamnya, ubah properti `color` menjadi warna lain dan
+   gunakan `text-align` untuk menengahkan teksnya.
+*/
+h1 {
+    color: #000000; /* Merah */
+    text-align: center;
+}
+p { 
+   color:rgb(3, 123, 236);
+   text-size-adjust: 40px;
+   text-decoration: dotted underline;
+   text-align: center;
+}
+/* TUGAS 3:
+   Buat sebuah selector untuk elemen `img`.
+   Buat gambar menjadi bulat dengan `border-radius: 50%;`
+   Beri bingkai (border) dengan `border: 5px solid black;`
+   Atur agar gambar berada di tengah. Caranya?
+   Set `display: block;` dan `margin: auto;` pada gambar.
+*/
+img {
+    border-radius: 50%;
+    border: 5px solid black;
+    display: block;
+    margin: auto;
+    width: 200px; /* Atur lebar gambar */
+   } 
+
+
+/* TUGAS 4 (Bonus):
+   Coba beri gaya pada elemen lain seperti `h2` atau tautan `a`.
+   Bisakah Anda mengubah warna tautan ketika kursor mouse berada di atasnya?
+   (Petunjuk: cari tentang "CSS pseudo-class :hover")
+*/
+h2 {
+    color: #000000; /* Ubah warna sesuai keinginan */
+    text-align: center;
+}
+a:hover {
+   color:rgb(43, 49, 226); 
+}
